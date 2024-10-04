@@ -1,8 +1,8 @@
 const data =[
     
     ' Frontend Developement ',
-    'Web Designing',
-    'Digital Marketing',
+    'Sinplified websites',
+    'Elegant and Unique websites',
 ]
 
 
