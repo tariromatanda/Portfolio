@@ -575,7 +575,7 @@ textarea {
 
 .container .box {
   position: relative;
-  width:285;
+  width:285px;
   height: 200px;
   display: flex;
   justify-content: center;
