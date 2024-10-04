@@ -1,7 +1,7 @@
 const data =[
     
     ' Frontend Developement ',
-    'Sinplified websites',
+    'Simplified websites',
     'Elegant and Unique websites',
 ]
 

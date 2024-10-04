@@ -235,6 +235,14 @@ h2 {
   color: #fff;
 
 }
+.home h2 {
+  font-size: 3rem;
+  font-weight: bolder;
+  text-align: center;
+  margin: 20px;
+  color: #fff;
+
+}
 
 /*=============== ABOUT SECTION ===============*/
 
@@ -647,7 +655,7 @@ text-align: center;
 .container .box .content {
   position: relative;
   left: 0;
-  padding: 20px 40px;
+  padding: 20px 30px;
   background: rgba(255, 255, 255, 0.05);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
